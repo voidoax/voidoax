@@ -1,9 +1,29 @@
-<h3 align="center">voidoax</h3>
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A8B9CC&center=true&vCenter=true&width=700&lines=voidoax;learning+by+building" alt="Typing SVG" />
+  </a>
+</p>
+
+<br>
+<br>
+
 <p align="center">
   <em>infrastructure, automation & the space between code and hardware</em>
 </p>
 
 <br>
+
+---
+
+### About
+
+I'm a developer and infrastructure enthusiast who enjoys building things that automate the tedious.
+
+Most of my time goes into configuration management, containerization, and making deployments repeatable and reliable. I believe good infrastructure should be boring — automated, documented, and boring.
+
+When I'm not writing playbooks or tinkering with containers, I'm probably breaking something in my Proxmox homelab.
+
+---
 
 ### Stack
 
@@ -14,18 +34,23 @@
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white&labelColor=1e1e2e)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=1e1e2e)
 
-### Currently
+---
 
-Building an Ansible playbook that fully automates 3CX deployment — from provisioning to configuration.
+### Currently Working On
+
+**3CX Auto-Deploy**
+An Ansible playbook that fully automates the deployment of 3CX — from provisioning to configuration. The goal is a single command that stands up a complete, production-ready 3CX instance without manual intervention.
+
+---
 
 ### Links
 
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white&labelColor=1e1e2e)](https://www.reddit.com/user/voidoax)
 
-<br>
-
 ---
 
-[![voidoax's GitHub stats](https://github-readme-stats.vercel.app/api?username=voidoax&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/voidoax)
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voidoax&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/voidoax)
+<p align="center">
+  <sub>built with curiosity</sub>
+</p>
