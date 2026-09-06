@@ -1,16 +1,13 @@
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A8B9CC&center=true&vCenter=true&width=700&lines=voidoax;learning+by+building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A8B9CC&center=true&vCenter=true&width=700&lines=hollowgrid;learning+by+building" alt="Typing SVG" />
   </a>
 </p>
-
 <br>
 <br>
-
 <p align="center">
   <em>infrastructure, automation & the space between code and hardware</em>
 </p>
-
 <br>
 
 ---
@@ -36,21 +33,7 @@ When I'm not writing playbooks or tinkering with containers, I'm probably breaki
 
 ---
 
-### Currently Working On
-
-**3CX Auto-Deploy**
-An Ansible playbook that fully automates the deployment of 3CX — from provisioning to configuration. The goal is a single command that stands up a complete, production-ready 3CX instance without manual intervention.
-
----
-
-### Links
-
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white&labelColor=1e1e2e)](https://www.reddit.com/user/voidoax)
-
----
-
 <br>
-
 <p align="center">
   <sub>built with curiosity</sub>
 </p>
